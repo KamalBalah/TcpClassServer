@@ -1,0 +1,9 @@
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassServer\TcpClassServer\bin\Debug\TcpClassServer.exe.config
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassServer\TcpClassServer\bin\Debug\TcpClassServer.exe
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassServer\TcpClassServer\bin\Debug\TcpClassServer.pdb
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassServer\TcpClassServer\obj\Debug\TcpClassServer.csprojResolveAssemblyReference.cache
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassServer\TcpClassServer\obj\Debug\TcpClassServer.Server.resources
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassServer\TcpClassServer\obj\Debug\TcpClassServer.Properties.Resources.resources
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassServer\TcpClassServer\obj\Debug\TcpClassServer.csproj.GenerateResource.Cache
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassServer\TcpClassServer\obj\Debug\TcpClassServer.exe
+c:\users\kamalbalah\documents\visual studio 2015\Projects\TcpClassServer\TcpClassServer\obj\Debug\TcpClassServer.pdb
